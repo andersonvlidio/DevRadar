@@ -1,0 +1,12 @@
+// metodos HTTP: GET,POST, PUT, DELETE
+
+//Tipos de parâmetos: 
+
+// Query Params: request.query (Filtros, ordenação, paginação)
+// Route Params: request.params (Identificar um recurso na alteração ou remoção)
+//Body: request.body (Dados para criação ou alteração de um registro)
+
+
+aula 02 - 1:06 minutos baixar mongodb compass communty (ver oque tem dentro dobanco de dados)
+
+// funçoes controler : Index( mostrar uma lista), show(mostrar um unico item), store(criar item), update(alterar), destroy(deletar)
